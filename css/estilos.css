@@ -1,0 +1,15 @@
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+@media only screen and (max-width: 576px) {
+    .carousel-caption {
+        font-size: 3rem;
+}
+}
+
+#contact img{
+ width: 150px;
+}
